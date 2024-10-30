@@ -3,10 +3,10 @@
 This repository contains solutions to various problems I've solved on CodeForces over the years. Each folder corresponds to a different contest, making it easy to navigate through the problems I tackled.
 
 ## Structure
-
-- Each contest is organized in its own folder named after the contest or gym (e.g., `12133`).
+- Each contest is organized in its own folder named after the contest or gym (e.g., `13223`).
 - Inside each folder, you will find:
-  - Individual solution files for each problem (e.g., `A.cpp`, `B.py`).
+  - Individual solution files for each problem (e.g., `A-problem_name.cpp`, `B-problem_name.py`).
+
 
 ## How to Use
 
